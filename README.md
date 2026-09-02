@@ -1,2 +1,2 @@
 # journal-multimedia
-cours multi
+cours multimedia
