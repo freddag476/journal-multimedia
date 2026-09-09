@@ -1,11 +1,11 @@
 # journal-multimedia
 cours multimedia
 
-# EVS 0 Exemple
+# EVS 0 
 
-## Titre
+## Gael a la plage
 
-Introduction de mon projet en une phrase.
+Un dessin de Slave Knight Gael (De Dark souls 3) a la plage.
 
 ## Image
 
