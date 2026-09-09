@@ -1,15 +1,11 @@
-# journal-multimedia
-cours multimedia
+# Journal de bord de : *Frédérick Dagenais*
 
-# EVS 1 
+Créé pour le cours **Introduction à la création multimédia (582 705 MO, A26)**.
 
-## Gael a la plage
+## Liste de projets
 
-Un dessin de Slave Knight Gael (De Dark souls 3) a la plage.
-
-## Image
-
-## Crédits
-
-[Pok_Rie , Public Domain, via Pixabay.com](https://pixabay.com/fr/photos/le-coucher-du-soleil-plage-sable-1637376/)
-
+* [EVS 0 Exemple](evs-0-exemple/README.md)
+* EVS 1 Production Image
+* EVS 2 Production vidéo ou animation
+* EVS 3 Production sonore
+* EVS 4 Essai audiovisuel + présentation
