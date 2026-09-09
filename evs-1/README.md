@@ -5,7 +5,7 @@
 Dessin de Gael (Dark Souls 3) à la plage.
 ## Image
 
-![Sheridan Touring Car 1920-21](images/1920-21_Sheridan_Touring_Car.jpg)
+![Gael à la plage](image/Gael-a-la-plage.png)
 
 ## Crédits
 
