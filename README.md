@@ -9,8 +9,6 @@ Un dessin de Slave Knight Gael (De Dark souls 3) a la plage.
 
 ## Image
 
-![Gael a la plage](Gael a la plage.png)
-
 ## Crédits
 
 [Pok_Rie , Public Domain, via Pixabay.com](https://pixabay.com/fr/photos/le-coucher-du-soleil-plage-sable-1637376/)
