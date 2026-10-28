@@ -20,5 +20,5 @@ https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
 
 ## Cours 8
 Préparation de l'animation évaluée (Voir EVS 2) + finalisation de la référence pour le personnage a animer. J'ai fait la feuille de référence sur Procreate. 
-![Reference](image/test-storyboard.jpg)
+![Reference](image/cowboy.png)
 
