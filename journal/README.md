@@ -2,13 +2,14 @@
 
 ## Cours 5-8
 
-Test d'animation simple pour me familiariser avec Krita
-## Animation
 
+## Animation
+Test d'animation simple pour me familiariser avec Krita
 ![Cowboy](images/animation.gif)
 
 ## Storyboard
 
 
+Pratique de storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge
 ![Cowboy](images/storyboard.gif)
 
