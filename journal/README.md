@@ -8,7 +8,7 @@ Test d'animation simple pour me familiariser avec Krita
 ![Gnome](image/gnome.gif)
 
 ## Cours 6
-Pratique de long storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge)
+Pratique de long storyboard traditionnel (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge) j'ai choisi de ne pas utiliser ce storyboard car je n'était pas asser familier avec les silhouettes moins conventionelles des personnages de bob l'éponge, donc j'aurais plus de difficulter a les mettre en mouvement, donc j'ai décidé d'animer un personnage humain a la place au final. 
 ![Spongebob](image/test-storyboard.jpg)
 
 ## Cours 7
@@ -19,5 +19,6 @@ Elle est plus fluide car les mouvements sont moins dynamique et complexe que dan
 https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
 
 ## Cours 8
-Préparation de l'animation évaluée (Voir EVS 2) + finalisation de la référence pour le personnage a animer
+Préparation de l'animation évaluée (Voir EVS 2) + finalisation de la référence pour le personnage a animer. J'ai fait la feuille de référence sur Procreate. 
+![Reference](image/test-storyboard.jpg)
 
