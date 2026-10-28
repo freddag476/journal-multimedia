@@ -3,6 +3,6 @@
 ## Cowboy
 
 Animation d'un cowboy qui utilise une carabine comme un baton pour se battre
-## Image
+## Animation
 
 ![Cowboy](images/animation.gif)
