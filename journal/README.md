@@ -5,7 +5,7 @@
 
 ## Animation
 Test d'animation simple pour me familiariser avec Krita
-![Gnome](/image/gnome.gif)
+![Gnome](image/gnome.gif)
 
 ## Storyboard
 
