@@ -3,13 +3,11 @@
 ## Cours 5-8
 
 
-## Animation
+## Cours 5
 Test d'animation simple pour me familiariser avec Krita
 ![Gnome](image/gnome.gif)
 
-## Storyboard
-
-
+## Cours 6
 Pratique de long storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge)
 ![Cowboy](images/storyboard.gif)
 
