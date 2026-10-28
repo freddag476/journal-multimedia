@@ -4,7 +4,7 @@
 
 
 ## Cours 5
-Test d'animation simple pour me familiariser avec Krita
+Test d'animation simple pour me familiariser avec la fonction d'animation de Krita
 ![Gnome](image/gnome.gif)
 
 ## Cours 6
