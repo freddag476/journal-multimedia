@@ -12,7 +12,9 @@ Pratique de long storyboard traditionelle (faite pour accompagner une chanson de
 ![Spongebob](image/test-storyboard.jpg)
 
 ## Cours 7
-Pratique d'animation lip sync avec audio + pratique d'animation du personnage utilisé pour EVS-2
+Pratique d'animation lip sync avec audio + pratique d'animation du personnage utilisé pour EVS-2. Cette animation a été faite en entier sur procreate, et l'audio a été rajouté sur Capcut.  
+[<Source de l'audio>](<https://www.youtube.com/watch?v=BXdO01f-luM>) 
+
 
 
 https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
