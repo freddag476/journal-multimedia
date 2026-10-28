@@ -13,5 +13,6 @@ Pratique de long storyboard traditionelle (faite pour accompagner une chanson de
 
 ## Cours 7
 Pratique d'animation lip sync avec audio + pratique d'animation du personnage utilisé pour EVS-2
-![Spongebob](image/test-storyboard.jpg)
+<video src="./assets/demo-video.mp4" controls width="100%"></video>
+
 
