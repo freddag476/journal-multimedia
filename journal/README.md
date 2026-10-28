@@ -10,6 +10,6 @@ Test d'animation simple pour me familiariser avec Krita
 ## Storyboard
 
 
-Pratique de long storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge
+Pratique de long storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge)
 ![Cowboy](images/storyboard.gif)
 
