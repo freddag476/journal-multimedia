@@ -9,4 +9,4 @@ Animation d'un cowboy qui utilise une carabine comme un baton pour se battre
 
 ## Storyboard
 
-![Cowboy](images/animation.gif)
+![Cowboy](images/storyboard.gif)
