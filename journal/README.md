@@ -15,10 +15,9 @@ Pratique de long storyboard traditionelle (faite pour accompagner une chanson de
 Pratique d'animation lip sync avec audio + pratique d'animation du personnage utilisé pour EVS-2. Cette animation a été faite en entier sur procreate, et l'audio a été rajouté sur Capcut.  
 [Source de l'audio (L4D2)](<https://www.youtube.com/watch?v=BXdO01f-luM>) 
 
-
-
 https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
 
-
-
+## Cours 8
+Préparation de l'animation évaluée:
+* [EVS 2 Animation](evs-2/README.md)
 
