@@ -19,6 +19,5 @@ Elle est plus fluide car les mouvements sont moins dynamique et complexe que dan
 https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
 
 ## Cours 8
-Préparation de l'animation évaluée:
-* [EVS 2 Animation](evs-2/README.md)
+Préparation de l'animation évaluée (Voir EVS 2) + finalisation de la référence pour le personnage a animer
 
