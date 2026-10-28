@@ -9,5 +9,5 @@ Test d'animation simple pour me familiariser avec Krita
 
 ## Cours 6
 Pratique de long storyboard traditionelle (faite pour accompagner une chanson de la comédie musicale de Bob l'éponge)
-![Cowboy](images/storyboard.gif)
+![Spongebob](image/test-storyboard.jpg)
 
