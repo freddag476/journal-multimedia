@@ -22,8 +22,8 @@ https://github.com/user-attachments/assets/a3afad7d-3298-47aa-9523-c7b6a9560c23
 Préparation de l'animation évaluée (Voir EVS 2) + finalisation de la référence pour le personnage a animer. J'ai fait la feuille de référence sur Procreate. 
 ![Reference](image/cowboy.png)
 
-## Cours 9
+## Cours 10
 Brainstorming avec partenaire pour contenu de l'animation du projet final afin de pouvoir faire un paysage sonore cohérent.
 
-## Cours 10 
+## Cours 11 
 Conception du paysage sonore remis pour l'EVS 3
