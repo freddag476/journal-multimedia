@@ -6,3 +6,4 @@ Créé pour le cours **Introduction à la création multimédia (582 705 MO, A26
 
 * [EVS 1: Production Image](evs-1/README.md)
 * [EVS 2: Animation](evs-2/README.md)
+* [EVS 3: Audio](evs-3/README.md)
